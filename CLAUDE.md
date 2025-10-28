@@ -2,6 +2,11 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+# 중요 설정
+  항상 답변은 한국말로 해주세요.
+  변경사항을 항상 깃 허브 에 이슈를 넣어주세요.
+  항상 ultrathink 해 주세요.
+
 ## Project Overview
 
 키움밥상 (Growing Table)은 아동급식카드를 사용하는 어린이들이 스스로 영양 관리와 성장을 기록할 수 있는 웹 기반 플랫폼입니다. 어린이가 직접 식사 정보를 입력하고, 자신의 영양 상태와 키·몸무게 성장 추이를 쉽고 재미있게 확인할 수 있도록 설계되었습니다.
