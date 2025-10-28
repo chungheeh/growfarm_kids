@@ -6,7 +6,8 @@
       "Bash(git commit:*)",
       "Bash(gh:*)",
       "Bash(mkdir:*)",
-      "Bash(git remote add:*)"
+      "Bash(git remote add:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
